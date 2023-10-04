@@ -1,0 +1,12 @@
+E:\APIS\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\APIS\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\APIS\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\APIS\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\APIS\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\APIS\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
